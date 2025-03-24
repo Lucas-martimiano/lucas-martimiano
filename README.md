@@ -2,7 +2,7 @@ Hi there, I'm Lucas! 👋
 
 About Me
 
-I'm a passionate Game Development enthusiast currently pursuing a degree in Systems Analysis and Development at IFSP (Instituto Federal de Ciência e Tecnologia de São Paulo). 
+I'm a Game Development enthusiast currently pursuing a degree in Systems Analysis and Development at IFSP (Instituto Federal de Ciência e Tecnologia de São Paulo). 
 I love coding, learning new technologies, and bringing creative ideas to life through programming.
 
 ✨ Skills
@@ -13,10 +13,10 @@ I love coding, learning new technologies, and bringing creative ideas to life th
 
 🎮 Aspiring Game Developer
 
-I'm deeply interested in Game Development, exploring C++ and Unreal Engine to create immersive experiences. 
+I'm interested in Game Development, exploring C++ and Unreal Engine to create games. 
 Always eager to learn and work on new projects!
 
 🌟 Let's Connect!
 
-Feel free to connect with me on GitHub and follow my journey in game development. 
-I'm always open to collaborations and exciting projects!
+Feel free to connect with me on GitHub.
+I'm always open to collaborations and projects!
