@@ -1,13 +1,13 @@
 ## Hello, I'm Lucas!
 **`FullStack Developer`**
 <p style="text-align: justify;">
-Hello! My name is Lucas, I’m 19 years old, and I’m currently studying Systems Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo (IFSP). I’m passionate about technology and always looking to expand my knowledge and experience in software development.
+Hello! My name is Lucas, I’m 20 years old, and I’m currently studying Systems Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo (IFSP). I’m passionate about technology and always looking to expand my knowledge and experience in software development.
 <br><br>
 My main areas of interest include:
 <ul>
   <li>Back-End Development with Java and related frameworks;</li>
   <li>Game Development using C/C++ with Unreal Engine;</li>
-  <li>Cybersecurity.</li>
+  <li>Front-end Development with React js;</li>
 </ul>
 I’m always open to new challenges and opportunities that contribute to my academic and professional growth.
 </p>
