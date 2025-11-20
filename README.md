@@ -1,4 +1,4 @@
-## Hello, I'm Lucas!
+## Olá, Lucas aqui!
 **`Cybersecurity Analyst Student`**
 <p style="text-align: justify;">
 Olá! Meu nome é Lucas, tenho 20 anos, e atualmente estou estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). Sou apaixonado por tecnologia e estou sempre buscando expandir meu conhecimento e experiência na área.
