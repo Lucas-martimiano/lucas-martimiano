@@ -1,15 +1,16 @@
 ## Hello, I'm Lucas!
-**`FullStack Developer`**
+**`Cybersecurity Analyst Student`**
 <p style="text-align: justify;">
-Hello! My name is Lucas, I’m 20 years old, and I’m currently studying Systems Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo (IFSP). I’m passionate about technology and always looking to expand my knowledge and experience in software development.
+Olá! Meu nome é Lucas, tenho 20 anos, e atualmente estou estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). Sou apaixonado por tecnologia e estou sempre buscando expandir meu conhecimento e experiência na área.
 <br><br>
-My main areas of interest include:
+Minhas principais áreas de interesse incluem:
 <ul>
-  <li>Back-End Development with Java and related frameworks;</li>
-  <li>Game Development using C/C++ with Unreal Engine;</li>
-  <li>Front-end Development with React js;</li>
+  <li>Cibersegurança, com foco em defesa de rede e testes de penetração;</li>
+  <li>Desenvolvimento Back-End com Java e frameworks relacionados;</li>
+  <li>Infraestrutura de TI, incluindo soluções em nuvem e gerenciamento de redes;</li>
+  <li>Desenvolvimento de Jogos utilizando C/C++ com Unreal Engine.</li>
 </ul>
-I’m always open to new challenges and opportunities that contribute to my academic and professional growth.
+Estou sempre aberto a novas oportunidades que contribuam para o meu crescimento acadêmico e profissional.
 </p>
 
 <br>
