@@ -22,7 +22,6 @@ Estou sempre aberto a novas oportunidades que contribuam para o meu crescimento 
 
 **`Technologies`**
 <div style="display: inline_block">
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -34,16 +33,6 @@ Estou sempre aberto a novas oportunidades que contribuam para o meu crescimento 
 </div>
 
 <br><br>
-
-**`Statistics`**
-<div>
-  <a href="https://github.com/Lucas-martimiano/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-martimiano&show_icons=true&theme=dracula">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-martimiano&layout=compact&theme=dracula">
-  </a>
-</div>
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-martimiano/Lucas-martimiano/output/github-snake-dark.svg" />
