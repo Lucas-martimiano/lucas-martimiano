@@ -12,7 +12,6 @@ Minhas principais áreas de interesse incluem:
 Estou sempre aberto a novas oportunidades que contribuam para o meu crescimento acadêmico e profissional.
 </p>
 
-<br>
 <div>
   <a href="https://www.linkedin.com/in/lucasmartimiano/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
