@@ -1,14 +1,13 @@
 ## Olá, Lucas aqui!
-**`Cybersecurity Analyst Student`**
+**`Game Development Student`**
 <p style="text-align: justify;">
-Olá! Meu nome é Lucas, tenho 20 anos, e atualmente estou estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). Sou apaixonado por tecnologia e estou sempre buscando expandir meu conhecimento e experiência na área.
+Olá! Meu nome é Lucas, tenho 20 anos, e atualmente estou estudando Game Development.
 <br><br>
 Minhas principais áreas de interesse incluem:
 <ul>
-  <li>Cibersegurança, com foco em defesa de rede e testes de penetração;</li>
-  <li>Desenvolvimento Back-End com Java e frameworks relacionados;</li>
-  <li>Infraestrutura de TI, incluindo soluções em nuvem e gerenciamento de redes;</li>
   <li>Desenvolvimento de Jogos utilizando C/C++ com Unreal Engine.</li>
+  <li>Infraestrutura de TI, incluindo soluções em nuvem e gerenciamento de redes;</li>
+  <li>Concept Artist, Modelagem 3D e animação;</li>
 </ul>
 Estou sempre aberto a novas oportunidades que contribuam para o meu crescimento acadêmico e profissional.
 </p>
@@ -31,8 +30,6 @@ Estou sempre aberto a novas oportunidades que contribuam para o meu crescimento 
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-martimiano/Lucas-martimiano/output/github-snake-dark.svg" />
