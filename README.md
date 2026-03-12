@@ -7,7 +7,7 @@ Minhas principais áreas de interesse incluem:
 <ul>
   <li>Desenvolvimento de Jogos utilizando C/C++ com Unreal Engine.</li>
   <li>Infraestrutura de TI, incluindo soluções em nuvem e gerenciamento de redes;</li>
-  <li>Concept Artist, Modelagem 3D e animação;</li>
+  <li>Concept Artist, Modelagem 3D e Animação;</li>
 </ul>
 Estou sempre aberto a novas oportunidades que contribuam para o meu crescimento acadêmico e profissional.
 </p>
